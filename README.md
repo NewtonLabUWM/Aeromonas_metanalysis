@@ -1,4 +1,4 @@
-# Antibiotic-resistant Aeromonas meta-analysis
+# Antibiotic-resistant <i>Aeromonas spp.</i> meta-analysis
 Aeromonas 16S rRNA gene sequence dataset compilation
 
 
