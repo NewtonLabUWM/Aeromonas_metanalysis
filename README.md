@@ -22,17 +22,17 @@ McClary et al., 2021. In progress. [NCBI Sequence Read Archive](https://www.ncbi
 
 ### Seafood
 
-(Clams) Liu, X., Teixeira, J. S., Ner, S., Ma, K. V., Petronella, N., Banerjee, S., & Ronholm, J. (2020). Exploring the Potential of the Microbiome as a Marker of the Geographic Origin of Fresh Seafood. [Frontiers in microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00696/full), 11.
+<b>(Clams)</b> Liu, X., Teixeira, J. S., Ner, S., Ma, K. V., Petronella, N., Banerjee, S., & Ronholm, J. (2020). Exploring the Potential of the Microbiome as a Marker of the Geographic Origin of Fresh Seafood. [Frontiers in microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00696/full), 11.
 
-(Nase) Guivier, E., Pech, N., Chappaz, R., & Gilles, A. (2020). Microbiota associated with the skin, gills, and gut of the fish Parachondrostoma toxostoma from the Rhône basin. [Freshwater Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13437), 65(3), 446-459.
+<b>(Nase)</b> Guivier, E., Pech, N., Chappaz, R., & Gilles, A. (2020). Microbiota associated with the skin, gills, and gut of the fish Parachondrostoma toxostoma from the Rhône basin. [Freshwater Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13437), 65(3), 446-459.
 
-(Salmon) Uren Webster, T. M., Rodriguez‐Barreto, D., Castaldo, G., Gough, P., Consuegra, S., & Garcia de Leaniz, C. (2020). Environmental plasticity and colonisation history in the Atlantic salmon microbiome: a translocation experiment. [Molecular ecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7078932/), 29(5), 886-898.
+<b>(Salmon)</b> Uren Webster, T. M., Rodriguez‐Barreto, D., Castaldo, G., Gough, P., Consuegra, S., & Garcia de Leaniz, C. (2020). Environmental plasticity and colonisation history in the Atlantic salmon microbiome: a translocation experiment. [Molecular ecology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7078932/), 29(5), 886-898.
 
-(Salmon) Webster, T. M. U., Consuegra, S., Hitchings, M., & de Leaniz, C. G. (2018). Interpopulation variation in the Atlantic salmon microbiome reflects environmental and genetic diversity. [Applied and environmental microbiology](https://aem.asm.org/content/84/16/e00691-18), 84(16).
+<b>(Salmon)</b> Webster, T. M. U., Consuegra, S., Hitchings, M., & de Leaniz, C. G. (2018). Interpopulation variation in the Atlantic salmon microbiome reflects environmental and genetic diversity. [Applied and environmental microbiology](https://aem.asm.org/content/84/16/e00691-18), 84(16).
 
-(Tench) Dulski, T., Kozłowski, K., & Ciesielski, S. (2020). Habitat and seasonality shape the structure of tench (Tinca tinca L.) gut microbiome. [Scientific reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064478/), 10(1), 1-11.
+<b>(Tench)</b> Dulski, T., Kozłowski, K., & Ciesielski, S. (2020). Habitat and seasonality shape the structure of tench (Tinca tinca L.) gut microbiome. [Scientific reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064478/), 10(1), 1-11.
 
-(Brown trout) Vasemägi, A., Visse, M., & Kisand, V. (2017). Effect of environmental factors and an emerging parasitic disease on gut microbiome of wild salmonid fish. [MSphere](https://msphere.asm.org/content/2/6/e00418-17), 2(6).
+<b>(Trout)</b> Vasemägi, A., Visse, M., & Kisand, V. (2017). Effect of environmental factors and an emerging parasitic disease on gut microbiome of wild salmonid fish. [MSphere](https://msphere.asm.org/content/2/6/e00418-17), 2(6).
 
 
 
