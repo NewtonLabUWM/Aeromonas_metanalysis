@@ -2,7 +2,7 @@
 Aeromonas 16S rRNA gene sequence dataset compilation
 
 
-### Source datasets
+## Source datasets
 
 <b>1. Treated wastewater</b>
 
