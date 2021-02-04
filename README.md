@@ -16,7 +16,7 @@ Bartelme, R. P., McLellan, S. L., & Newton, R. J. (2017). Freshwater recirculati
 
 <b>3. Rivers</b>
 
-McClary et al., 2021. In progress.
+McClary et al., 2021. In progress. [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/bioproject/665728).
 
 
 
