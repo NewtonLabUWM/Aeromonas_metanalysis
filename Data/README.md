@@ -7,3 +7,6 @@ All fastq files trimmed with cutadapt, processed with dada2
 *_info.csv = metadata from NCBI SRA
 
 *_taxa.csv = taxonomy assigned to ASVs with Silva v138
+
+
+files >25MB are compressed
