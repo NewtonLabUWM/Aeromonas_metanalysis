@@ -4,7 +4,7 @@ Aeromonas 16S rRNA gene sequence dataset compilation
 
 ## Source datasets
 
-### Treated wastewater
+### Treated wastewater (effluent)
 
 Beattie, R. E., Skwor, T., & Hristova, K. R. (2020). Survivor microbial populations in post-chlorinated wastewater are strongly associated with untreated hospital sewage and include ceftazidime and meropenem resistant populations. [Science of The Total Environment](https://www.sciencedirect.com/science/article/pii/S0048969720337074?casa_token=iv1F7xNgfiAAAAAA:gU5u_5YeFvghDMprAboJJppcGjHLi0bVumTizm2T97Y8S42JHilexx9VlJ6_P27r4RPf_nbPoQ), 740, 140186.
 
