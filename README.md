@@ -1,3 +1,8 @@
+./Data = Total community counts, Aeromonas only counts, sample metadata
+
+./R = R code, R objects
+
+
 # Aquatic, antibiotic-resistant <i>Aeromonas spp.</i> meta-analysis
 Aeromonas 16S rRNA gene sequence dataset compilation
 
