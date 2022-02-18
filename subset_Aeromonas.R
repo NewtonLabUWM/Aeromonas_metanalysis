@@ -51,10 +51,6 @@ Datasets
 # [1] "Aquaculture" "Beach"       "Effluent"    "Nase"        "River"       "Salmon"      "Tench"       "Trout"     
 
 
-# remove "all files" list to save memory
-rm(all_files.ls)
-
-
 # load compiled sample info
 info_all <- read.csv("./RData/Aeromonas_16S_metadata.csv")
 
