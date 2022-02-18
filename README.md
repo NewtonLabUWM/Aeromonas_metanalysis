@@ -40,4 +40,20 @@ McClary-Gutierrez, J. S., Driscoll, Z., Nenn, C., & Newton, R. J. (2021). Human 
 Cloutier, D. D., Alm, E. W., & McLellan, S. L. (2015). Influence of land use, nutrients, and geography on microbial communities and fecal indicator abundance at Lake Michigan beaches. [Applied and environmental microbiology](https://aem.asm.org/content/81/15/4904.short), 81(15), 4904-4913.
 
 
+## Estimate proportions of <i>Aeromonas</i> in each dataset
+
+### 1.  Obtain raw FASTQs
+- <b>NCBI Short Read Archive.  </b> Find published studies with 16S rRNA gene amplicon sequencing done on seafood-associated samples (see ./SRA_code).
+- <b>UWM archives.  </b> Compile aquatic-environmental datasets from previously published works.
+- see Aeromonas_16S_metadata.csv
+
+
+### 2.  Process raw 16S rRNA gene reads
+- <b>DADA2.  </b> Quality filter, merge paired-end reads, remove chimeric sequences, assign taxonomy with DADA2 (see ./DADA2_code).
+
+
+### 3.  Parse sequences classified as genus <i>Aeromonas</i>
+- see Aeromonas_metanalyis.R
+
+
 ![image](https://github.com/NewtonLabUWM/Aeromonas_metanalysis/blob/main/DADA2_code/Fig1.png)
