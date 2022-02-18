@@ -1,0 +1,1177 @@
+﻿File,BioProject,BioSample,Country,Location,SampleSource,SampleType,SeafoodType
+BF0065,PRJNA322504,SAMN05912795,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0066,PRJNA322504,SAMN05912794,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0067,PRJNA322504,SAMN05912793,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0068,PRJNA322504,SAMN05912790,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0069,PRJNA322504,SAMN05912791,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0070,PRJNA322504,SAMN05912792,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0078,PRJNA322504,SAMN05912796,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0079,PRJNA322504,SAMN05912797,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0084,PRJNA322504,SAMN05191958,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0085,PRJNA322504,SAMN05191959,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0086,PRJNA322504,SAMN05191960,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0097,PRJNA322504,SAMN05191961,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0098,PRJNA322504,SAMN05191962,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+BF0099,PRJNA322504,SAMN05191963,USA,Milwaukee,Yellow perch (Perca flavescens),Biofilter,Aquaculture
+ERR2129705,PRJEB22688,SAMEA104307727,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129707,PRJEB22688,SAMEA104307728,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129708,PRJEB22688,SAMEA104307729,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129710,PRJEB22688,SAMEA104307730,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129711,PRJEB22688,SAMEA104307731,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129713,PRJEB22688,SAMEA104307732,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129714,PRJEB22688,SAMEA104307733,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129716,PRJEB22688,SAMEA104307734,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129717,PRJEB22688,SAMEA104307735,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129719,PRJEB22688,SAMEA104307736,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129720,PRJEB22688,SAMEA104307737,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129722,PRJEB22688,SAMEA104307738,France,CNSS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129723,PRJEB22688,SAMEA104307739,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129725,PRJEB22688,SAMEA104307740,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129726,PRJEB22688,SAMEA104307741,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129728,PRJEB22688,SAMEA104307742,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129729,PRJEB22688,SAMEA104307743,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129731,PRJEB22688,SAMEA104307744,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129732,PRJEB22688,SAMEA104307745,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129734,PRJEB22688,SAMEA104307746,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129735,PRJEB22688,SAMEA104307747,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129737,PRJEB22688,SAMEA104307748,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129738,PRJEB22688,SAMEA104307749,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129740,PRJEB22688,SAMEA104307750,France,CNSS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129741,PRJEB22688,SAMEA104307751,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129743,PRJEB22688,SAMEA104307752,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129744,PRJEB22688,SAMEA104307753,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129746,PRJEB22688,SAMEA104307754,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129747,PRJEB22688,SAMEA104307755,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129749,PRJEB22688,SAMEA104307756,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129750,PRJEB22688,SAMEA104307757,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129752,PRJEB22688,SAMEA104307758,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129753,PRJEB22688,SAMEA104307759,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129755,PRJEB22688,SAMEA104307760,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129756,PRJEB22688,SAMEA104307761,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129758,PRJEB22688,SAMEA104307762,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129759,PRJEB22688,SAMEA104307763,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129761,PRJEB22688,SAMEA104307764,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129762,PRJEB22688,SAMEA104307765,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129764,PRJEB22688,SAMEA104307766,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129765,PRJEB22688,SAMEA104307767,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129767,PRJEB22688,SAMEA104307768,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129768,PRJEB22688,SAMEA104307769,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129770,PRJEB22688,SAMEA104307770,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129771,PRJEB22688,SAMEA104307771,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129773,PRJEB22688,SAMEA104307772,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129774,PRJEB22688,SAMEA104307773,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129776,PRJEB22688,SAMEA104307774,United Kingdom,Cynrig,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129777,PRJEB22688,SAMEA104307775,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129779,PRJEB22688,SAMEA104307776,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129780,PRJEB22688,SAMEA104307777,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129782,PRJEB22688,SAMEA104307778,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129783,PRJEB22688,SAMEA104307779,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129785,PRJEB22688,SAMEA104307780,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129786,PRJEB22688,SAMEA104307781,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129788,PRJEB22688,SAMEA104307782,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129789,PRJEB22688,SAMEA104307783,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129791,PRJEB22688,SAMEA104307784,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129792,PRJEB22688,SAMEA104307785,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129794,PRJEB22688,SAMEA104307786,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129795,PRJEB22688,SAMEA104307787,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129797,PRJEB22688,SAMEA104307788,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129798,PRJEB22688,SAMEA104307789,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129800,PRJEB22688,SAMEA104307790,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129801,PRJEB22688,SAMEA104307791,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129803,PRJEB22688,SAMEA104307792,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129804,PRJEB22688,SAMEA104307793,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129806,PRJEB22688,SAMEA104307794,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129807,PRJEB22688,SAMEA104307795,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129809,PRJEB22688,SAMEA104307796,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129810,PRJEB22688,SAMEA104307797,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129812,PRJEB22688,SAMEA104307798,United Kingdom,Frome,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129813,PRJEB22688,SAMEA104307799,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129815,PRJEB22688,SAMEA104307800,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129816,PRJEB22688,SAMEA104307801,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129818,PRJEB22688,SAMEA104307802,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129819,PRJEB22688,SAMEA104307803,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129821,PRJEB22688,SAMEA104307804,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129822,PRJEB22688,SAMEA104307805,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129824,PRJEB22688,SAMEA104307806,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129825,PRJEB22688,SAMEA104307807,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129827,PRJEB22688,SAMEA104307808,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129828,PRJEB22688,SAMEA104307809,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129830,PRJEB22688,SAMEA104307810,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Gut,Hatchery
+ERR2129831,PRJEB22688,SAMEA104307811,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129833,PRJEB22688,SAMEA104307812,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129834,PRJEB22688,SAMEA104307813,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129836,PRJEB22688,SAMEA104307814,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129837,PRJEB22688,SAMEA104307815,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129839,PRJEB22688,SAMEA104307816,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129840,PRJEB22688,SAMEA104307817,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129842,PRJEB22688,SAMEA104307818,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129843,PRJEB22688,SAMEA104307819,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129845,PRJEB22688,SAMEA104307820,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129846,PRJEB22688,SAMEA104307821,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129848,PRJEB22688,SAMEA104307822,United Kingdom,MHS,Atlantic Salmon (Salmo salar),Skin,Hatchery
+ERR2129849,PRJEB22688,SAMEA104307823,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129851,PRJEB22688,SAMEA104307824,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129852,PRJEB22688,SAMEA104307825,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129854,PRJEB22688,SAMEA104307826,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129855,PRJEB22688,SAMEA104307827,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129857,PRJEB22688,SAMEA104307828,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129858,PRJEB22688,SAMEA104307829,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129860,PRJEB22688,SAMEA104307830,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129861,PRJEB22688,SAMEA104307831,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129863,PRJEB22688,SAMEA104307832,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129864,PRJEB22688,SAMEA104307833,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129866,PRJEB22688,SAMEA104307834,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129867,PRJEB22688,SAMEA104307835,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129869,PRJEB22688,SAMEA104307836,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129870,PRJEB22688,SAMEA104307837,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129872,PRJEB22688,SAMEA104307838,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129873,PRJEB22688,SAMEA104307839,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129875,PRJEB22688,SAMEA104307840,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129876,PRJEB22688,SAMEA104307841,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129878,PRJEB22688,SAMEA104307842,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129879,PRJEB22688,SAMEA104307843,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129880,PRJEB22688,SAMEA104307844,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129882,PRJEB22688,SAMEA104307845,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129883,PRJEB22688,SAMEA104307846,United Kingdom,Towy,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129885,PRJEB22688,SAMEA104307847,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129886,PRJEB22688,SAMEA104307848,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129888,PRJEB22688,SAMEA104307849,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129889,PRJEB22688,SAMEA104307850,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129891,PRJEB22688,SAMEA104307851,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129892,PRJEB22688,SAMEA104307852,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129894,PRJEB22688,SAMEA104307853,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129895,PRJEB22688,SAMEA104307854,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129897,PRJEB22688,SAMEA104307855,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129898,PRJEB22688,SAMEA104307856,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129900,PRJEB22688,SAMEA104307857,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129901,PRJEB22688,SAMEA104307858,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129903,PRJEB22688,SAMEA104307859,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129904,PRJEB22688,SAMEA104307860,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129906,PRJEB22688,SAMEA104307861,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129907,PRJEB22688,SAMEA104307862,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129909,PRJEB22688,SAMEA104307863,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129910,PRJEB22688,SAMEA104307864,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129912,PRJEB22688,SAMEA104307865,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129913,PRJEB22688,SAMEA104307866,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129915,PRJEB22688,SAMEA104307867,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129916,PRJEB22688,SAMEA104307868,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129918,PRJEB22688,SAMEA104307869,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129919,PRJEB22688,SAMEA104307870,United Kingdom,Spey,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129921,PRJEB22688,SAMEA104307871,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129922,PRJEB22688,SAMEA104307872,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129924,PRJEB22688,SAMEA104307873,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129925,PRJEB22688,SAMEA104307874,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129927,PRJEB22688,SAMEA104307875,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129928,PRJEB22688,SAMEA104307876,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129930,PRJEB22688,SAMEA104307877,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129934,PRJEB22688,SAMEA104307878,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129935,PRJEB22688,SAMEA104307879,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129937,PRJEB22688,SAMEA104307880,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129938,PRJEB22688,SAMEA104307881,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129940,PRJEB22688,SAMEA104307882,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Gut,Wild
+ERR2129941,PRJEB22688,SAMEA104307883,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129943,PRJEB22688,SAMEA104307884,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129944,PRJEB22688,SAMEA104307885,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129946,PRJEB22688,SAMEA104307886,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129947,PRJEB22688,SAMEA104307887,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129949,PRJEB22688,SAMEA104307888,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129950,PRJEB22688,SAMEA104307889,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129952,PRJEB22688,SAMEA104307890,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129953,PRJEB22688,SAMEA104307891,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129955,PRJEB22688,SAMEA104307892,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129956,PRJEB22688,SAMEA104307893,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129958,PRJEB22688,SAMEA104307894,United Kingdom,Tweed,Atlantic Salmon (Salmo salar),Skin,Wild
+ERR2129959,PRJEB22688,SAMEA104307895,United Kingdom,CNSS,Tank water,Water,Hatchery
+ERR2129961,PRJEB22688,SAMEA104307896,France,Cynrig,Tank water,Water,Hatchery
+ERR2129962,PRJEB22688,SAMEA104307897,United Kingdom,Frome,River water,Water,Wild
+ERR2129964,PRJEB22688,SAMEA104307898,United Kingdom,MHS,Tank water,Water,Hatchery
+ERR2129965,PRJEB22688,SAMEA104307899,United Kingdom,Towy,River water,Water,Wild
+ERR2129967,PRJEB22688,SAMEA104307900,United Kingdom,Spey,River water,Water,Wild
+ERR2129968,PRJEB22688,SAMEA104307901,United Kingdom,Tweed,River water,Water,Wild
+ERR3458554,PRJEB33555,SAMEA5816608,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458555,PRJEB33555,SAMEA5816609,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458556,PRJEB33555,SAMEA5816610,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458557,PRJEB33555,SAMEA5816611,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458558,PRJEB33555,SAMEA5816612,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458559,PRJEB33555,SAMEA5816613,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458560,PRJEB33555,SAMEA5816614,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458561,PRJEB33555,SAMEA5816615,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458562,PRJEB33555,SAMEA5816616,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458563,PRJEB33555,SAMEA5816617,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458564,PRJEB33555,SAMEA5816618,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458565,PRJEB33555,SAMEA5816619,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458566,PRJEB33555,SAMEA5816620,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458567,PRJEB33555,SAMEA5816621,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458568,PRJEB33555,SAMEA5816622,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458569,PRJEB33555,SAMEA5816623,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458570,PRJEB33555,SAMEA5816624,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458571,PRJEB33555,SAMEA5816625,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458572,PRJEB33555,SAMEA5816626,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458573,PRJEB33555,SAMEA5816627,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458574,PRJEB33555,SAMEA5816628,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458575,PRJEB33555,SAMEA5816629,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458576,PRJEB33555,SAMEA5816630,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458577,PRJEB33555,SAMEA5816631,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458578,PRJEB33555,SAMEA5816632,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458579,PRJEB33555,SAMEA5816633,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458580,PRJEB33555,SAMEA5816634,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458581,PRJEB33555,SAMEA5816635,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458582,PRJEB33555,SAMEA5816636,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458583,PRJEB33555,SAMEA5816637,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458584,PRJEB33555,SAMEA5816638,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458585,PRJEB33555,SAMEA5816639,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458586,PRJEB33555,SAMEA5816640,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458587,PRJEB33555,SAMEA5816641,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458588,PRJEB33555,SAMEA5816642,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458589,PRJEB33555,SAMEA5816643,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458590,PRJEB33555,SAMEA5816644,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458591,PRJEB33555,SAMEA5816645,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458592,PRJEB33555,SAMEA5816646,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458593,PRJEB33555,SAMEA5816647,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458594,PRJEB33555,SAMEA5816648,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458595,PRJEB33555,SAMEA5816649,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458596,PRJEB33555,SAMEA5816650,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458597,PRJEB33555,SAMEA5816651,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458598,PRJEB33555,SAMEA5816652,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458599,PRJEB33555,SAMEA5816653,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458600,PRJEB33555,SAMEA5816654,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458601,PRJEB33555,SAMEA5816655,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458602,PRJEB33555,SAMEA5816656,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458603,PRJEB33555,SAMEA5816657,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458604,PRJEB33555,SAMEA5816658,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458605,PRJEB33555,SAMEA5816659,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458606,PRJEB33555,SAMEA5816660,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458607,PRJEB33555,SAMEA5816661,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458608,PRJEB33555,SAMEA5816662,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458609,PRJEB33555,SAMEA5816663,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458610,PRJEB33555,SAMEA5816664,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458611,PRJEB33555,SAMEA5816665,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458612,PRJEB33555,SAMEA5816666,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458613,PRJEB33555,SAMEA5816667,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458614,PRJEB33555,SAMEA5816669,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458615,PRJEB33555,SAMEA5816670,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458616,PRJEB33555,SAMEA5816671,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458617,PRJEB33555,SAMEA5816672,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458618,PRJEB33555,SAMEA5816673,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458619,PRJEB33555,SAMEA5816674,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458620,PRJEB33555,SAMEA5816675,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458621,PRJEB33555,SAMEA5816676,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458622,PRJEB33555,SAMEA5816677,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458623,PRJEB33555,SAMEA5816678,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458624,PRJEB33555,SAMEA5816679,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458625,PRJEB33555,SAMEA5816680,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458626,PRJEB33555,SAMEA5816681,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458627,PRJEB33555,SAMEA5816682,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458628,PRJEB33555,SAMEA5816683,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458629,PRJEB33555,SAMEA5816684,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458630,PRJEB33555,SAMEA5816685,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458631,PRJEB33555,SAMEA5816686,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458632,PRJEB33555,SAMEA5816687,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458633,PRJEB33555,SAMEA5816688,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458634,PRJEB33555,SAMEA5816689,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458635,PRJEB33555,SAMEA5816690,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458636,PRJEB33555,SAMEA5816691,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458637,PRJEB33555,SAMEA5816692,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458638,PRJEB33555,SAMEA5816693,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458639,PRJEB33555,SAMEA5816694,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458640,PRJEB33555,SAMEA5816695,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458641,PRJEB33555,SAMEA5816696,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458642,PRJEB33555,SAMEA5816697,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458643,PRJEB33555,SAMEA5816698,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458644,PRJEB33555,SAMEA5816699,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458645,PRJEB33555,SAMEA5816700,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458646,PRJEB33555,SAMEA5816701,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458647,PRJEB33555,SAMEA5816702,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458648,PRJEB33555,SAMEA5816703,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458649,PRJEB33555,SAMEA5816704,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458650,PRJEB33555,SAMEA5816705,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458651,PRJEB33555,SAMEA5816706,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458652,PRJEB33555,SAMEA5816707,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458653,PRJEB33555,SAMEA5816708,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458654,PRJEB33555,SAMEA5816709,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458655,PRJEB33555,SAMEA5816710,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458656,PRJEB33555,SAMEA5816711,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458657,PRJEB33555,SAMEA5816712,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458658,PRJEB33555,SAMEA5816713,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458659,PRJEB33555,SAMEA5816714,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458660,PRJEB33555,SAMEA5816715,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458661,PRJEB33555,SAMEA5816716,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458662,PRJEB33555,SAMEA5816717,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458663,PRJEB33555,SAMEA5816718,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458664,PRJEB33555,SAMEA5816719,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458665,PRJEB33555,SAMEA5816720,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458666,PRJEB33555,SAMEA5816721,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458667,PRJEB33555,SAMEA5816722,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458668,PRJEB33555,SAMEA5816723,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458669,PRJEB33555,SAMEA5816724,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458670,PRJEB33555,SAMEA5816725,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458671,PRJEB33555,SAMEA5816726,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458672,PRJEB33555,SAMEA5816727,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458673,PRJEB33555,SAMEA5816728,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458674,PRJEB33555,SAMEA5816729,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458675,PRJEB33555,SAMEA5816730,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458676,PRJEB33555,SAMEA5816731,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458677,PRJEB33555,SAMEA5816732,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458678,PRJEB33555,SAMEA5816733,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458679,PRJEB33555,SAMEA5816734,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458680,PRJEB33555,SAMEA5816735,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458681,PRJEB33555,SAMEA5816736,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458682,PRJEB33555,SAMEA5816737,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458683,PRJEB33555,SAMEA5816738,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458684,PRJEB33555,SAMEA5816739,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458685,PRJEB33555,SAMEA5816740,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458686,PRJEB33555,SAMEA5816741,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458687,PRJEB33555,SAMEA5816742,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458688,PRJEB33555,SAMEA5816743,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458689,PRJEB33555,SAMEA5816744,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458690,PRJEB33555,SAMEA5816745,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458691,PRJEB33555,SAMEA5816746,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458692,PRJEB33555,SAMEA5816747,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458693,PRJEB33555,SAMEA5816748,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458694,PRJEB33555,SAMEA5816749,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458695,PRJEB33555,SAMEA5816750,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458696,PRJEB33555,SAMEA5816751,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458697,PRJEB33555,SAMEA5816752,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458698,PRJEB33555,SAMEA5816753,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458699,PRJEB33555,SAMEA5816754,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458700,PRJEB33555,SAMEA5816755,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458701,PRJEB33555,SAMEA5816756,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458702,PRJEB33555,SAMEA5816757,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458703,PRJEB33555,SAMEA5816758,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458704,PRJEB33555,SAMEA5816759,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458705,PRJEB33555,SAMEA5816760,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458706,PRJEB33555,SAMEA5816761,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458707,PRJEB33555,SAMEA5816762,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458708,PRJEB33555,SAMEA5816763,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458709,PRJEB33555,SAMEA5816764,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458710,PRJEB33555,SAMEA5816765,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458711,PRJEB33555,SAMEA5816766,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458712,PRJEB33555,SAMEA5816767,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458713,PRJEB33555,SAMEA5816768,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458714,PRJEB33555,SAMEA5816769,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458715,PRJEB33555,SAMEA5816770,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458716,PRJEB33555,SAMEA5816771,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458717,PRJEB33555,SAMEA5816772,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458718,PRJEB33555,SAMEA5816773,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458719,PRJEB33555,SAMEA5816774,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458720,PRJEB33555,SAMEA5816775,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458721,PRJEB33555,SAMEA5816776,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458722,PRJEB33555,SAMEA5816777,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458723,PRJEB33555,SAMEA5816778,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458724,PRJEB33555,SAMEA5816779,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458725,PRJEB33555,SAMEA5816780,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458726,PRJEB33555,SAMEA5816781,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458727,PRJEB33555,SAMEA5816782,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458728,PRJEB33555,SAMEA5816783,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458729,PRJEB33555,SAMEA5816784,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458730,PRJEB33555,SAMEA5816785,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458731,PRJEB33555,SAMEA5816786,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458732,PRJEB33555,SAMEA5816787,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458733,PRJEB33555,SAMEA5816788,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458734,PRJEB33555,SAMEA5816789,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458735,PRJEB33555,SAMEA5816790,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458736,PRJEB33555,SAMEA5816791,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458737,PRJEB33555,SAMEA5816792,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458738,PRJEB33555,SAMEA5816793,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458739,PRJEB33555,SAMEA5816794,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458740,PRJEB33555,SAMEA5816795,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458741,PRJEB33555,SAMEA5816796,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458742,PRJEB33555,SAMEA5816797,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458743,PRJEB33555,SAMEA5816798,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458744,PRJEB33555,SAMEA5816799,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458745,PRJEB33555,SAMEA5816800,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458746,PRJEB33555,SAMEA5816801,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458747,PRJEB33555,SAMEA5816802,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458748,PRJEB33555,SAMEA5816803,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458749,PRJEB33555,SAMEA5816804,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458750,PRJEB33555,SAMEA5816805,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458751,PRJEB33555,SAMEA5816806,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458752,PRJEB33555,SAMEA5816807,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458753,PRJEB33555,SAMEA5816808,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458754,PRJEB33555,SAMEA5816809,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458755,PRJEB33555,SAMEA5816810,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458756,PRJEB33555,SAMEA5816811,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458757,PRJEB33555,SAMEA5816812,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458758,PRJEB33555,SAMEA5816813,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458759,PRJEB33555,SAMEA5816814,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458760,PRJEB33555,SAMEA5816815,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458761,PRJEB33555,SAMEA5816816,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458762,PRJEB33555,SAMEA5816817,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458763,PRJEB33555,SAMEA5816818,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458764,PRJEB33555,SAMEA5816819,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458765,PRJEB33555,SAMEA5816820,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458766,PRJEB33555,SAMEA5816821,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458767,PRJEB33555,SAMEA5816822,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3458768,PRJEB33555,SAMEA5816823,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3458769,PRJEB33555,SAMEA5816824,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460030,PRJEB33555,SAMEA5816608,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460031,PRJEB33555,SAMEA5816609,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460032,PRJEB33555,SAMEA5816610,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460033,PRJEB33555,SAMEA5816611,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460034,PRJEB33555,SAMEA5816612,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460035,PRJEB33555,SAMEA5816613,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460036,PRJEB33555,SAMEA5816614,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460037,PRJEB33555,SAMEA5816615,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460038,PRJEB33555,SAMEA5816616,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460039,PRJEB33555,SAMEA5816617,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460040,PRJEB33555,SAMEA5816618,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460041,PRJEB33555,SAMEA5816619,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460042,PRJEB33555,SAMEA5816620,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460043,PRJEB33555,SAMEA5816621,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460044,PRJEB33555,SAMEA5816622,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460045,PRJEB33555,SAMEA5816623,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460046,PRJEB33555,SAMEA5816624,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460047,PRJEB33555,SAMEA5816625,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460048,PRJEB33555,SAMEA5816626,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460049,PRJEB33555,SAMEA5816627,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460050,PRJEB33555,SAMEA5816628,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460051,PRJEB33555,SAMEA5816629,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460052,PRJEB33555,SAMEA5816630,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460053,PRJEB33555,SAMEA5816631,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460054,PRJEB33555,SAMEA5816632,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460055,PRJEB33555,SAMEA5816633,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460056,PRJEB33555,SAMEA5816634,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460057,PRJEB33555,SAMEA5816635,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460058,PRJEB33555,SAMEA5816636,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460059,PRJEB33555,SAMEA5816637,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460060,PRJEB33555,SAMEA5816638,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460061,PRJEB33555,SAMEA5816639,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460062,PRJEB33555,SAMEA5816640,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460063,PRJEB33555,SAMEA5816641,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460064,PRJEB33555,SAMEA5816642,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460065,PRJEB33555,SAMEA5816643,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460066,PRJEB33555,SAMEA5816644,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460067,PRJEB33555,SAMEA5816645,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460068,PRJEB33555,SAMEA5816646,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460069,PRJEB33555,SAMEA5816647,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460070,PRJEB33555,SAMEA5816648,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460071,PRJEB33555,SAMEA5816649,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460072,PRJEB33555,SAMEA5816650,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460073,PRJEB33555,SAMEA5816651,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460074,PRJEB33555,SAMEA5816652,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460075,PRJEB33555,SAMEA5816653,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460076,PRJEB33555,SAMEA5816654,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460077,PRJEB33555,SAMEA5816655,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460078,PRJEB33555,SAMEA5816656,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460079,PRJEB33555,SAMEA5816657,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460080,PRJEB33555,SAMEA5816658,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460081,PRJEB33555,SAMEA5816659,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460082,PRJEB33555,SAMEA5816660,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460083,PRJEB33555,SAMEA5816661,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460084,PRJEB33555,SAMEA5816662,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460085,PRJEB33555,SAMEA5816663,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460086,PRJEB33555,SAMEA5816664,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460087,PRJEB33555,SAMEA5816665,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460088,PRJEB33555,SAMEA5816666,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460089,PRJEB33555,SAMEA5816667,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460090,PRJEB33555,SAMEA5816669,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460091,PRJEB33555,SAMEA5816670,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460092,PRJEB33555,SAMEA5816671,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460093,PRJEB33555,SAMEA5816672,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460094,PRJEB33555,SAMEA5816673,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460095,PRJEB33555,SAMEA5816674,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460096,PRJEB33555,SAMEA5816675,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460097,PRJEB33555,SAMEA5816676,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460098,PRJEB33555,SAMEA5816677,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460099,PRJEB33555,SAMEA5816678,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460100,PRJEB33555,SAMEA5816679,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460101,PRJEB33555,SAMEA5816680,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460102,PRJEB33555,SAMEA5816681,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460103,PRJEB33555,SAMEA5816682,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460104,PRJEB33555,SAMEA5816683,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460105,PRJEB33555,SAMEA5816684,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460106,PRJEB33555,SAMEA5816685,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460107,PRJEB33555,SAMEA5816686,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460108,PRJEB33555,SAMEA5816687,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460109,PRJEB33555,SAMEA5816688,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460110,PRJEB33555,SAMEA5816689,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460111,PRJEB33555,SAMEA5816690,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460112,PRJEB33555,SAMEA5816691,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460113,PRJEB33555,SAMEA5816692,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460114,PRJEB33555,SAMEA5816693,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460115,PRJEB33555,SAMEA5816694,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460116,PRJEB33555,SAMEA5816695,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460117,PRJEB33555,SAMEA5816696,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460118,PRJEB33555,SAMEA5816697,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460119,PRJEB33555,SAMEA5816698,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460120,PRJEB33555,SAMEA5816699,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460121,PRJEB33555,SAMEA5816700,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460122,PRJEB33555,SAMEA5816701,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460123,PRJEB33555,SAMEA5816702,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460124,PRJEB33555,SAMEA5816703,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460125,PRJEB33555,SAMEA5816704,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460126,PRJEB33555,SAMEA5816705,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460127,PRJEB33555,SAMEA5816706,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460128,PRJEB33555,SAMEA5816707,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460129,PRJEB33555,SAMEA5816708,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460130,PRJEB33555,SAMEA5816709,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460131,PRJEB33555,SAMEA5816710,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460132,PRJEB33555,SAMEA5816711,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460133,PRJEB33555,SAMEA5816712,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460134,PRJEB33555,SAMEA5816713,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460135,PRJEB33555,SAMEA5816714,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460136,PRJEB33555,SAMEA5816715,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460137,PRJEB33555,SAMEA5816716,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460138,PRJEB33555,SAMEA5816717,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460139,PRJEB33555,SAMEA5816718,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460140,PRJEB33555,SAMEA5816719,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460141,PRJEB33555,SAMEA5816720,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460142,PRJEB33555,SAMEA5816721,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460143,PRJEB33555,SAMEA5816722,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460144,PRJEB33555,SAMEA5816723,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460145,PRJEB33555,SAMEA5816724,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460146,PRJEB33555,SAMEA5816725,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460147,PRJEB33555,SAMEA5816726,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460148,PRJEB33555,SAMEA5816727,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460149,PRJEB33555,SAMEA5816728,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460150,PRJEB33555,SAMEA5816729,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460151,PRJEB33555,SAMEA5816730,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460152,PRJEB33555,SAMEA5816731,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460153,PRJEB33555,SAMEA5816732,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460154,PRJEB33555,SAMEA5816733,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460155,PRJEB33555,SAMEA5816734,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460156,PRJEB33555,SAMEA5816735,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460157,PRJEB33555,SAMEA5816736,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460158,PRJEB33555,SAMEA5816737,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460159,PRJEB33555,SAMEA5816738,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460160,PRJEB33555,SAMEA5816739,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460161,PRJEB33555,SAMEA5816740,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460162,PRJEB33555,SAMEA5816741,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460163,PRJEB33555,SAMEA5816742,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460164,PRJEB33555,SAMEA5816743,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460165,PRJEB33555,SAMEA5816744,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460166,PRJEB33555,SAMEA5816745,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460167,PRJEB33555,SAMEA5816746,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460168,PRJEB33555,SAMEA5816747,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460169,PRJEB33555,SAMEA5816748,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460170,PRJEB33555,SAMEA5816749,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460171,PRJEB33555,SAMEA5816750,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460172,PRJEB33555,SAMEA5816751,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460173,PRJEB33555,SAMEA5816752,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460174,PRJEB33555,SAMEA5816753,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460175,PRJEB33555,SAMEA5816754,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460176,PRJEB33555,SAMEA5816755,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460177,PRJEB33555,SAMEA5816756,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460178,PRJEB33555,SAMEA5816757,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460179,PRJEB33555,SAMEA5816758,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460180,PRJEB33555,SAMEA5816759,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460181,PRJEB33555,SAMEA5816760,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460182,PRJEB33555,SAMEA5816761,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460183,PRJEB33555,SAMEA5816762,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460184,PRJEB33555,SAMEA5816763,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460185,PRJEB33555,SAMEA5816764,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460186,PRJEB33555,SAMEA5816765,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460187,PRJEB33555,SAMEA5816766,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460188,PRJEB33555,SAMEA5816767,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460189,PRJEB33555,SAMEA5816768,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460190,PRJEB33555,SAMEA5816769,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460191,PRJEB33555,SAMEA5816770,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460192,PRJEB33555,SAMEA5816771,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460193,PRJEB33555,SAMEA5816772,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460194,PRJEB33555,SAMEA5816773,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460195,PRJEB33555,SAMEA5816774,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460196,PRJEB33555,SAMEA5816775,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460197,PRJEB33555,SAMEA5816776,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460198,PRJEB33555,SAMEA5816777,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460199,PRJEB33555,SAMEA5816778,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460200,PRJEB33555,SAMEA5816779,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460201,PRJEB33555,SAMEA5816780,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460202,PRJEB33555,SAMEA5816781,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460203,PRJEB33555,SAMEA5816782,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460204,PRJEB33555,SAMEA5816783,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460205,PRJEB33555,SAMEA5816784,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460206,PRJEB33555,SAMEA5816785,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460207,PRJEB33555,SAMEA5816786,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460208,PRJEB33555,SAMEA5816787,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460209,PRJEB33555,SAMEA5816788,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460210,PRJEB33555,SAMEA5816789,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460211,PRJEB33555,SAMEA5816790,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460212,PRJEB33555,SAMEA5816791,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460213,PRJEB33555,SAMEA5816792,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460214,PRJEB33555,SAMEA5816793,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460215,PRJEB33555,SAMEA5816794,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460216,PRJEB33555,SAMEA5816795,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460217,PRJEB33555,SAMEA5816796,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460218,PRJEB33555,SAMEA5816797,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460219,PRJEB33555,SAMEA5816798,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460220,PRJEB33555,SAMEA5816799,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460221,PRJEB33555,SAMEA5816800,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460222,PRJEB33555,SAMEA5816801,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460223,PRJEB33555,SAMEA5816802,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460224,PRJEB33555,SAMEA5816803,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460225,PRJEB33555,SAMEA5816804,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460226,PRJEB33555,SAMEA5816805,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460227,PRJEB33555,SAMEA5816806,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460228,PRJEB33555,SAMEA5816807,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460229,PRJEB33555,SAMEA5816808,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460230,PRJEB33555,SAMEA5816809,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460231,PRJEB33555,SAMEA5816810,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460232,PRJEB33555,SAMEA5816811,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460233,PRJEB33555,SAMEA5816812,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460234,PRJEB33555,SAMEA5816813,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460235,PRJEB33555,SAMEA5816814,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460236,PRJEB33555,SAMEA5816815,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460237,PRJEB33555,SAMEA5816816,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460238,PRJEB33555,SAMEA5816817,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460239,PRJEB33555,SAMEA5816818,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460240,PRJEB33555,SAMEA5816819,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460241,PRJEB33555,SAMEA5816820,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460242,PRJEB33555,SAMEA5816821,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460243,PRJEB33555,SAMEA5816822,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460244,PRJEB33555,SAMEA5816823,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460245,PRJEB33555,SAMEA5816824,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460247,PRJEB33555,SAMEA5816608,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460248,PRJEB33555,SAMEA5816609,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460249,PRJEB33555,SAMEA5816610,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460250,PRJEB33555,SAMEA5816611,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460251,PRJEB33555,SAMEA5816612,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460252,PRJEB33555,SAMEA5816613,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460253,PRJEB33555,SAMEA5816614,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460254,PRJEB33555,SAMEA5816615,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460255,PRJEB33555,SAMEA5816616,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460256,PRJEB33555,SAMEA5816617,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460257,PRJEB33555,SAMEA5816618,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460258,PRJEB33555,SAMEA5816619,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460259,PRJEB33555,SAMEA5816620,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460260,PRJEB33555,SAMEA5816621,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460261,PRJEB33555,SAMEA5816622,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460262,PRJEB33555,SAMEA5816623,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460263,PRJEB33555,SAMEA5816624,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460264,PRJEB33555,SAMEA5816625,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460265,PRJEB33555,SAMEA5816626,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460266,PRJEB33555,SAMEA5816627,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460267,PRJEB33555,SAMEA5816628,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460268,PRJEB33555,SAMEA5816629,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460269,PRJEB33555,SAMEA5816630,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460270,PRJEB33555,SAMEA5816631,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460271,PRJEB33555,SAMEA5816632,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460272,PRJEB33555,SAMEA5816633,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460273,PRJEB33555,SAMEA5816634,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460274,PRJEB33555,SAMEA5816635,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460275,PRJEB33555,SAMEA5816636,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460276,PRJEB33555,SAMEA5816637,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460277,PRJEB33555,SAMEA5816638,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460278,PRJEB33555,SAMEA5816639,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460279,PRJEB33555,SAMEA5816640,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460280,PRJEB33555,SAMEA5816641,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460281,PRJEB33555,SAMEA5816642,France,Buech,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460282,PRJEB33555,SAMEA5816643,France,Buech,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460283,PRJEB33555,SAMEA5816644,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460284,PRJEB33555,SAMEA5816645,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460285,PRJEB33555,SAMEA5816646,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460286,PRJEB33555,SAMEA5816647,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460287,PRJEB33555,SAMEA5816648,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460288,PRJEB33555,SAMEA5816649,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460289,PRJEB33555,SAMEA5816650,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460290,PRJEB33555,SAMEA5816651,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460291,PRJEB33555,SAMEA5816652,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460292,PRJEB33555,SAMEA5816653,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460293,PRJEB33555,SAMEA5816654,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460294,PRJEB33555,SAMEA5816655,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460295,PRJEB33555,SAMEA5816656,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460296,PRJEB33555,SAMEA5816657,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460297,PRJEB33555,SAMEA5816658,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460298,PRJEB33555,SAMEA5816659,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460299,PRJEB33555,SAMEA5816660,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460300,PRJEB33555,SAMEA5816661,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460301,PRJEB33555,SAMEA5816662,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460302,PRJEB33555,SAMEA5816663,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460303,PRJEB33555,SAMEA5816664,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460304,PRJEB33555,SAMEA5816665,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460305,PRJEB33555,SAMEA5816666,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460306,PRJEB33555,SAMEA5816667,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460307,PRJEB33555,SAMEA5816669,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460308,PRJEB33555,SAMEA5816670,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460309,PRJEB33555,SAMEA5816671,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460310,PRJEB33555,SAMEA5816672,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460311,PRJEB33555,SAMEA5816673,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460312,PRJEB33555,SAMEA5816674,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460313,PRJEB33555,SAMEA5816675,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460314,PRJEB33555,SAMEA5816676,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460315,PRJEB33555,SAMEA5816677,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460316,PRJEB33555,SAMEA5816678,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460317,PRJEB33555,SAMEA5816679,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460318,PRJEB33555,SAMEA5816680,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460319,PRJEB33555,SAMEA5816681,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460320,PRJEB33555,SAMEA5816682,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460321,PRJEB33555,SAMEA5816683,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460322,PRJEB33555,SAMEA5816684,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460323,PRJEB33555,SAMEA5816685,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460324,PRJEB33555,SAMEA5816686,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460325,PRJEB33555,SAMEA5816687,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460326,PRJEB33555,SAMEA5816688,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460327,PRJEB33555,SAMEA5816689,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460328,PRJEB33555,SAMEA5816690,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460329,PRJEB33555,SAMEA5816691,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460330,PRJEB33555,SAMEA5816692,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460331,PRJEB33555,SAMEA5816693,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460332,PRJEB33555,SAMEA5816694,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460333,PRJEB33555,SAMEA5816695,France,Manosque,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460334,PRJEB33555,SAMEA5816696,France,Manosque,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460335,PRJEB33555,SAMEA5816697,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460336,PRJEB33555,SAMEA5816698,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460337,PRJEB33555,SAMEA5816699,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460338,PRJEB33555,SAMEA5816700,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460339,PRJEB33555,SAMEA5816701,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460340,PRJEB33555,SAMEA5816702,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460341,PRJEB33555,SAMEA5816703,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460342,PRJEB33555,SAMEA5816704,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460343,PRJEB33555,SAMEA5816705,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460344,PRJEB33555,SAMEA5816706,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460345,PRJEB33555,SAMEA5816707,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460346,PRJEB33555,SAMEA5816708,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460347,PRJEB33555,SAMEA5816709,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460348,PRJEB33555,SAMEA5816710,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460349,PRJEB33555,SAMEA5816711,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460350,PRJEB33555,SAMEA5816712,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460351,PRJEB33555,SAMEA5816713,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460352,PRJEB33555,SAMEA5816714,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460353,PRJEB33555,SAMEA5816715,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460354,PRJEB33555,SAMEA5816716,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460355,PRJEB33555,SAMEA5816717,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460356,PRJEB33555,SAMEA5816718,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460357,PRJEB33555,SAMEA5816719,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460358,PRJEB33555,SAMEA5816720,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460359,PRJEB33555,SAMEA5816721,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460360,PRJEB33555,SAMEA5816722,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460361,PRJEB33555,SAMEA5816723,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460362,PRJEB33555,SAMEA5816724,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460363,PRJEB33555,SAMEA5816725,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460364,PRJEB33555,SAMEA5816726,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460365,PRJEB33555,SAMEA5816727,France,Pertuis,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460366,PRJEB33555,SAMEA5816728,France,Pertuis,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460367,PRJEB33555,SAMEA5816729,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460368,PRJEB33555,SAMEA5816730,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460369,PRJEB33555,SAMEA5816731,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460370,PRJEB33555,SAMEA5816732,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460371,PRJEB33555,SAMEA5816733,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460372,PRJEB33555,SAMEA5816734,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460373,PRJEB33555,SAMEA5816735,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460374,PRJEB33555,SAMEA5816736,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460375,PRJEB33555,SAMEA5816737,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460376,PRJEB33555,SAMEA5816738,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460377,PRJEB33555,SAMEA5816739,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460378,PRJEB33555,SAMEA5816740,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460379,PRJEB33555,SAMEA5816741,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460380,PRJEB33555,SAMEA5816742,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460381,PRJEB33555,SAMEA5816743,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460382,PRJEB33555,SAMEA5816744,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460383,PRJEB33555,SAMEA5816745,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460384,PRJEB33555,SAMEA5816746,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460385,PRJEB33555,SAMEA5816747,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460386,PRJEB33555,SAMEA5816748,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460387,PRJEB33555,SAMEA5816749,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460388,PRJEB33555,SAMEA5816750,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460389,PRJEB33555,SAMEA5816751,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460390,PRJEB33555,SAMEA5816752,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460391,PRJEB33555,SAMEA5816753,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460392,PRJEB33555,SAMEA5816754,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460393,PRJEB33555,SAMEA5816755,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460394,PRJEB33555,SAMEA5816756,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460395,PRJEB33555,SAMEA5816757,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460396,PRJEB33555,SAMEA5816758,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460397,PRJEB33555,SAMEA5816759,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460398,PRJEB33555,SAMEA5816760,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460399,PRJEB33555,SAMEA5816761,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460400,PRJEB33555,SAMEA5816762,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460401,PRJEB33555,SAMEA5816763,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460402,PRJEB33555,SAMEA5816764,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460403,PRJEB33555,SAMEA5816765,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460404,PRJEB33555,SAMEA5816766,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460405,PRJEB33555,SAMEA5816767,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460406,PRJEB33555,SAMEA5816768,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460407,PRJEB33555,SAMEA5816769,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460408,PRJEB33555,SAMEA5816770,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460409,PRJEB33555,SAMEA5816771,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460410,PRJEB33555,SAMEA5816772,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460411,PRJEB33555,SAMEA5816773,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460412,PRJEB33555,SAMEA5816774,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460413,PRJEB33555,SAMEA5816775,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460414,PRJEB33555,SAMEA5816776,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460415,PRJEB33555,SAMEA5816777,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460416,PRJEB33555,SAMEA5816778,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460417,PRJEB33555,SAMEA5816779,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460418,PRJEB33555,SAMEA5816780,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460419,PRJEB33555,SAMEA5816781,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460420,PRJEB33555,SAMEA5816782,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460421,PRJEB33555,SAMEA5816783,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460422,PRJEB33555,SAMEA5816784,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460423,PRJEB33555,SAMEA5816785,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460424,PRJEB33555,SAMEA5816786,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460425,PRJEB33555,SAMEA5816787,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460426,PRJEB33555,SAMEA5816788,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460427,PRJEB33555,SAMEA5816789,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460428,PRJEB33555,SAMEA5816790,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460429,PRJEB33555,SAMEA5816791,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460430,PRJEB33555,SAMEA5816792,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460431,PRJEB33555,SAMEA5816793,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460432,PRJEB33555,SAMEA5816794,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460433,PRJEB33555,SAMEA5816795,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460434,PRJEB33555,SAMEA5816796,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460435,PRJEB33555,SAMEA5816797,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460436,PRJEB33555,SAMEA5816798,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460437,PRJEB33555,SAMEA5816799,France,Rosieres,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460438,PRJEB33555,SAMEA5816800,France,Rosieres,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460439,PRJEB33555,SAMEA5816801,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460440,PRJEB33555,SAMEA5816802,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460441,PRJEB33555,SAMEA5816803,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460442,PRJEB33555,SAMEA5816804,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460443,PRJEB33555,SAMEA5816805,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460444,PRJEB33555,SAMEA5816806,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460445,PRJEB33555,SAMEA5816807,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460446,PRJEB33555,SAMEA5816808,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460447,PRJEB33555,SAMEA5816809,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460448,PRJEB33555,SAMEA5816810,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460449,PRJEB33555,SAMEA5816811,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460450,PRJEB33555,SAMEA5816812,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460451,PRJEB33555,SAMEA5816813,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460452,PRJEB33555,SAMEA5816814,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460453,PRJEB33555,SAMEA5816815,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460454,PRJEB33555,SAMEA5816816,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460455,PRJEB33555,SAMEA5816817,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460456,PRJEB33555,SAMEA5816818,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460457,PRJEB33555,SAMEA5816819,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460458,PRJEB33555,SAMEA5816820,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460459,PRJEB33555,SAMEA5816821,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460460,PRJEB33555,SAMEA5816822,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+ERR3460461,PRJEB33555,SAMEA5816823,France,St Just,Nase (Parachrondrostoma toxostoma),Skin,Wild
+ERR3460462,PRJEB33555,SAMEA5816824,France,St Just,Nase (Parachrondrostoma toxostoma),Gut,Wild
+MI_GHAV_Back1_06_11_13,PRJNA272391,SAMN03282185,USA,Grand Haven,Backshore,Sand,NA
+MI_NB_Back1_06_11_13,PRJNA272391,SAMN03282188,USA,Ferrysburg,Backshore,Sand,NA
+MI_NB_Back1_08_07_13,PRJNA272391,SAMN03282218,USA,Ferrysburg,Backshore,Sand,NA
+MI_NB_Back1_09_23_13,PRJNA272391,SAMN03282219,USA,Ferrysburg,Backshore,Sand,NA
+MI_NB_Berm1_06_11_13,PRJNA272391,SAMN03282189,USA,Ferrysburg,Berm,Sand,NA
+MI_NB_Berm1_08_07_13,PRJNA272391,SAMN03282220,USA,Ferrysburg,Berm,Sand,NA
+MI_NB_Berm1_09_23_13,PRJNA272391,SAMN03282221,USA,Ferrysburg,Berm,Sand,NA
+MI_NB_SUB1_08_07_13,PRJNA272391,SAMN03282222,USA,Ferrysburg,Submerged,Sand,NA
+MI_NB_SUB1_09_23_13,PRJNA272391,SAMN03282223,USA,Ferrysburg,Submerged,Sand,NA
+MI_NB1_06_11_13,PRJNA272391,SAMN03282187,USA,Ferrysburg,Lake water,Water,NA
+MI_NB1_08_07_13,PRJNA272391,SAMN03282216,USA,Ferrysburg,Lake water,Water,NA
+MI_NB1_09_23_13,PRJNA272391,SAMN03282217,USA,Ferrysburg,Lake water,Water,NA
+MI_PJHOFF_Back1_06_11_13,PRJNA272391,SAMN03282191,USA,Muskegon,Backshore,Sand,NA
+MI_PJHOFF_Back1_08_07_13,PRJNA272391,SAMN03282226,USA,Muskegon,Backshore,Sand,NA
+MI_PJHOFF_Back1_09_23_13,PRJNA272391,SAMN03282227,USA,Muskegon,Backshore,Sand,NA
+MI_PJHOFF_Berm1_06_11_13,PRJNA272391,SAMN03282192,USA,Muskegon,Berm,Sand,NA
+MI_PJHOFF_Berm1_08_07_13,PRJNA272391,SAMN03282228,USA,Muskegon,Berm,Sand,NA
+MI_PJHOFF_SUB1_08_07_13,PRJNA272391,SAMN03282229,USA,Muskegon,Submerged,Sand,NA
+MI_PJHOFF_SUB1_09_23_13,PRJNA272391,SAMN03282230,USA,Muskegon,Submerged,Sand,NA
+MI_PJHOFF1_06_11_13,PRJNA272391,SAMN03282190,USA,Muskegon,Lake water,Water,NA
+MI_PJHOFF1_08_07_13,PRJNA272391,SAMN03282224,USA,Muskegon,Lake water,Water,NA
+MI_PJHOFF1_09_23_13,PRJNA272391,SAMN03282225,USA,Muskegon,Lake water,Water,NA
+MI_PMARQ_Back1_06_11_13,PRJNA272391,SAMN03282194,USA,Muskegon,Backshore,Sand,NA
+MI_PMARQ_Back1_08_07_13,PRJNA272391,SAMN03282233,USA,Muskegon,Backshore,Sand,NA
+MI_PMARQ_Back1_09_23_13,PRJNA272391,SAMN03282234,USA,Muskegon,Backshore,Sand,NA
+MI_PMARQ_Berm1_06_11_13,PRJNA272391,SAMN03282195,USA,Muskegon,Berm,Sand,NA
+MI_PMARQ_Berm1_08_07_13,PRJNA272391,SAMN03282235,USA,Muskegon,Berm,Sand,NA
+MI_PMARQ_Berm1_09_23_13,PRJNA272391,SAMN03282236,USA,Muskegon,Berm,Sand,NA
+MI_PMARQ_SUB1_08_07_13,PRJNA272391,SAMN03282237,USA,Muskegon,Submerged,Sand,NA
+MI_PMARQ_SUB1_09_23_13,PRJNA272391,SAMN03282238,USA,Muskegon,Submerged,Sand,NA
+MI_PMARQ1_06_11_13,PRJNA272391,SAMN03282193,USA,Muskegon,Lake water,Water,NA
+MI_PMARQ1_08_07_13,PRJNA272391,SAMN03282231,USA,Muskegon,Lake water,Water,NA
+MI_PMARQ1_09_23_13,PRJNA272391,SAMN03282232,USA,Muskegon,Lake water,Water,NA
+NL00103,PRJNA665728,SAMN16265583,USA,Willow Creek,River,Water,NA
+NL00104,PRJNA665728,SAMN16265584,USA,Dretzka Park Creek,River,Water,NA
+NL00105,PRJNA665728,SAMN16265585,USA,Little Menomonee River,River,Water,NA
+NL00106,PRJNA665728,SAMN16265586,USA,Underwood Creek,River,Water,NA
+NL00107,PRJNA665728,SAMN16265587,USA,Wilson Park Creek,River,Water,NA
+NL00108,PRJNA665728,SAMN16265588,USA,Kinnickinnic River,River,Water,NA
+NL00109,PRJNA665728,SAMN16265589,USA,Nichols Creek,River,Water,NA
+NL00110,PRJNA665728,SAMN16265590,USA,Batavia Creek,River,Water,NA
+NL00112,PRJNA665728,SAMN16265591,USA,Milwaukee River,River,Water,NA
+NL00113,PRJNA665728,SAMN16265592,USA,Riveredge Creek,River,Water,NA
+NL00114,PRJNA665728,SAMN16265593,USA,Cedar Creek,River,Water,NA
+NL00115,PRJNA665728,SAMN16265594,USA,Mole Creek,River,Water,NA
+NL00116,PRJNA665728,SAMN16265595,USA,Pigeon Creek,River,Water,NA
+NL00117,PRJNA665728,SAMN16265596,USA,Ulao Creek,River,Water,NA
+NL00118,PRJNA665728,SAMN16265597,USA,Indian Creek,River,Water,NA
+NL00162,PRJNA665728,SAMN16265598,USA,Willow Creek,River,Water,NA
+NL00163,PRJNA665728,SAMN16265599,USA,Dretzka Park Creek,River,Water,NA
+NL00164,PRJNA665728,SAMN16265600,USA,Little Menomonee River,River,Water,NA
+NL00165,PRJNA665728,SAMN16265601,USA,Underwood Creek,River,Water,NA
+NL00166,PRJNA665728,SAMN16265602,USA,Wilson Park Creek,River,Water,NA
+NL00167,PRJNA665728,SAMN16265603,USA,Kinnickinnic River,River,Water,NA
+NL00168,PRJNA665728,SAMN16265604,USA,Nichols Creek,River,Water,NA
+NL00169,PRJNA665728,SAMN16265605,USA,Batavia Creek,River,Water,NA
+NL00170,PRJNA665728,SAMN16265606,USA,Unnamed tributary,River,Water,NA
+NL00171,PRJNA665728,SAMN16265607,USA,Milwaukee River,River,Water,NA
+NL00172,PRJNA665728,SAMN16265608,USA,Riveredge Creek,River,Water,NA
+NL00173,PRJNA665728,SAMN16265609,USA,Cedar Creek,River,Water,NA
+NL00174,PRJNA665728,SAMN16265610,USA,Mole Creek,River,Water,NA
+NL00175,PRJNA665728,SAMN16265611,USA,Pigeon Creek,River,Water,NA
+NL00176,PRJNA665728,SAMN16265612,USA,Ulao Creek,River,Water,NA
+NL00177,PRJNA665728,SAMN16265613,USA,Indian Creek,River,Water,NA
+NL00212,PRJNA665728,SAMN16265614,USA,Willow Creek,River,Water,NA
+NL00213,PRJNA665728,SAMN16265615,USA,Dretzka Park Creek,River,Water,NA
+NL00214,PRJNA665728,SAMN16265616,USA,Little Menomonee River,River,Water,NA
+NL00215,PRJNA665728,SAMN16265617,USA,Underwood Creek,River,Water,NA
+NL00216,PRJNA665728,SAMN16265618,USA,Wilson Park Creek,River,Water,NA
+NL00217,PRJNA665728,SAMN16265619,USA,Kinnickinnic River,River,Water,NA
+NL00218,PRJNA665728,SAMN16265620,USA,Nichols Creek,River,Water,NA
+NL00219,PRJNA665728,SAMN16265621,USA,Batavia Creek,River,Water,NA
+NL00220,PRJNA665728,SAMN16265622,USA,Unnamed tributary,River,Water,NA
+NL00221,PRJNA665728,SAMN16265623,USA,Milwaukee River,River,Water,NA
+NL00222,PRJNA665728,SAMN16265624,USA,Riveredge Creek,River,Water,NA
+NL00223,PRJNA665728,SAMN16265625,USA,Cedar Creek,River,Water,NA
+NL00224,PRJNA665728,SAMN16265626,USA,Mole Creek,River,Water,NA
+NL00225,PRJNA665728,SAMN16265627,USA,Pigeon Creek,River,Water,NA
+NL00226,PRJNA665728,SAMN16265628,USA,Ulao Creek,River,Water,NA
+NL00227,PRJNA665728,SAMN16265629,USA,Indian Creek,River,Water,NA
+NL00290,PRJNA665728,SAMN16265630,USA,Willow Creek,River,Water,NA
+NL00291,PRJNA665728,SAMN16265631,USA,Dretzka Park Creek,River,Water,NA
+NL00292,PRJNA665728,SAMN16265632,USA,Little Menomonee River,River,Water,NA
+NL00293,PRJNA665728,SAMN16265633,USA,Underwood Creek,River,Water,NA
+NL00294,PRJNA665728,SAMN16265634,USA,Wilson Park Creek,River,Water,NA
+NL00295,PRJNA665728,SAMN16265635,USA,Kinnickinnic River,River,Water,NA
+NL00296,PRJNA665728,SAMN16265636,USA,Nichols Creek,River,Water,NA
+NL00297,PRJNA665728,SAMN16265637,USA,Batavia Creek,River,Water,NA
+NL00298,PRJNA665728,SAMN16265638,USA,Unnamed tributary,River,Water,NA
+NL00299,PRJNA665728,SAMN16265639,USA,Milwaukee River,River,Water,NA
+NL00300,PRJNA665728,SAMN16265640,USA,Riveredge Creek,River,Water,NA
+NL00301,PRJNA665728,SAMN16265641,USA,Cedar Creek,River,Water,NA
+NL00302,PRJNA665728,SAMN16265642,USA,Mole Creek,River,Water,NA
+NL00303,PRJNA665728,SAMN16265643,USA,Pigeon Creek,River,Water,NA
+NL00304,PRJNA665728,SAMN16265644,USA,Ulao Creek,River,Water,NA
+NL00305,PRJNA665728,SAMN16265645,USA,Indian Creek,River,Water,NA
+NL00308,PRJNA665728,SAMN16265646,USA,Willow Creek,River,Water,NA
+NL00309,PRJNA665728,SAMN16265647,USA,Dretzka Park Creek,River,Water,NA
+NL00310,PRJNA665728,SAMN16265648,USA,Little Menomonee River,River,Water,NA
+NL00311,PRJNA665728,SAMN16265649,USA,Underwood Creek,River,Water,NA
+NL00312,PRJNA665728,SAMN16265650,USA,Wilson Park Creek,River,Water,NA
+NL00313,PRJNA665728,SAMN16265651,USA,Kinnickinnic River,River,Water,NA
+NL00314,PRJNA665728,SAMN16265652,USA,Nichols Creek,River,Water,NA
+NL00315,PRJNA665728,SAMN16265653,USA,Batavia Creek,River,Water,NA
+NL00316,PRJNA665728,SAMN16265654,USA,Unnamed tributary,River,Water,NA
+NL00317,PRJNA665728,SAMN16265655,USA,Milwaukee River,River,Water,NA
+NL00318,PRJNA665728,SAMN16265656,USA,Riveredge Creek,River,Water,NA
+NL00319,PRJNA665728,SAMN16265657,USA,Cedar Creek,River,Water,NA
+NL00320,PRJNA665728,SAMN16265658,USA,Mole Creek,River,Water,NA
+NL00321,PRJNA665728,SAMN16265659,USA,Pigeon Creek,River,Water,NA
+NL00322,PRJNA665728,SAMN16265660,USA,Ulao Creek,River,Water,NA
+NL00323,PRJNA665728,SAMN16265661,USA,Indian Creek,River,Water,NA
+SRR11487872,PRJNA622864,SAMN14531081,USA,Milwaukee,Post-chlorinated wastewater,Water,NA
+SRR11487873,PRJNA622864,SAMN14531080,USA,Milwaukee,Post-chlorinated wastewater,Water,NA
+SRR11487874,PRJNA622864,SAMN14531079,USA,Milwaukee,Pre-chlorinated wastewater,Water,NA
+SRR11487886,PRJNA622864,SAMN14531100,USA,Milwaukee,Post-chlorinated wastewater,Water,NA
+SRR11487887,PRJNA622864,SAMN14531099,USA,Milwaukee,Pre-chlorinated wastewater,Water,NA
+SRR11487888,PRJNA622864,SAMN14531098,USA,Milwaukee,Pre-chlorinated wastewater,Water,NA
+SRR11487896,PRJNA622864,SAMN14531091,USA,Milwaukee,Post-chlorinated wastewater,Water,NA
+SRR11487897,PRJNA622864,SAMN14531090,USA,Milwaukee,Post-chlorinated wastewater,Water,NA
+SRR11487898,PRJNA622864,SAMN14531089,USA,Milwaukee,Pre-chlorinated wastewater,Water,NA
+SRR11487899,PRJNA622864,SAMN14531088,USA,Milwaukee,Pre-chlorinated wastewater,Water,NA
+SRR6354353,PRJNA388139,SAMN08136109,Estonia,Selja,River,Water,NA
+SRR6354354,PRJNA388139,SAMN08136110,Estonia,Selja,River,Water,NA
+SRR6354355,PRJNA388139,SAMN08136107,Estonia,Pudisoo,River,Water,NA
+SRR6354356,PRJNA388139,SAMN08136108,Estonia,Selja,River,Water,NA
+SRR6354357,PRJNA388139,SAMN08136105,Estonia,Pudisoo,River,Water,NA
+SRR6354358,PRJNA388139,SAMN08136106,Estonia,Pudisoo,River,Water,NA
+SRR6354359,PRJNA388139,SAMN08136103,Estonia,Preedi,River,Water,NA
+SRR6354360,PRJNA388139,SAMN08136104,Estonia,Preedi,River,Water,NA
+SRR6354361,PRJNA388139,SAMN08136111,Estonia,Toolse,River,Water,NA
+SRR6354362,PRJNA388139,SAMN08136112,Estonia,Toolse,River,Water,NA
+SRR6354363,PRJNA388139,SAMN08136122,Estonia,Vodja,River,Water,NA
+SRR6354364,PRJNA388139,SAMN08136121,Estonia,Vodja,River,Water,NA
+SRR6354365,PRJNA388139,SAMN08136120,Estonia,Vodja,River,Water,NA
+SRR6354366,PRJNA388139,SAMN08136119,Estonia,Vainupea,River,Water,NA
+SRR6354367,PRJNA388139,SAMN08136118,Estonia,Vainupea,River,Water,NA
+SRR6354368,PRJNA388139,SAMN08136117,Estonia,Vainupea,River,Water,NA
+SRR6354369,PRJNA388139,SAMN08136116,Estonia,Voesu,River,Water,NA
+SRR6354370,PRJNA388139,SAMN08136115,Estonia,Voesu,River,Water,NA
+SRR6354371,PRJNA388139,SAMN08136114,Estonia,Voesu,River,Water,NA
+SRR6354372,PRJNA388139,SAMN08136113,Estonia,Toolse,River,Water,NA
+SRR6354373,PRJNA388139,SAMN08136101,Estonia,Pada,River,Water,NA
+SRR6354374,PRJNA388139,SAMN08136102,Estonia,Preedi,River,Water,NA
+SRR6354375,PRJNA388139,SAMN08136099,Estonia,Pada,River,Water,NA
+SRR6354376,PRJNA388139,SAMN08136100,Estonia,Pada,River,Water,NA
+SRR6354377,PRJNA388139,SAMN08136097,Estonia,Mustoja,River,Water,NA
+SRR6354378,PRJNA388139,SAMN08136098,Estonia,Mustoja,River,Water,NA
+SRR6354379,PRJNA388139,SAMN08136095,Estonia,Altja,River,Water,NA
+SRR6354380,PRJNA388139,SAMN08136096,Estonia,Mustoja,River,Water,NA
+SRR6354381,PRJNA388139,SAMN08136093,Estonia,Altja,River,Water,NA
+SRR6354382,PRJNA388139,SAMN08136094,Estonia,Altja,River,Water,NA
+SRR6354383,PRJNA388139,SAMN08135979,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354384,PRJNA388139,SAMN08135978,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354385,PRJNA388139,SAMN08135981,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354386,PRJNA388139,SAMN08135980,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354387,PRJNA388139,SAMN08135975,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354388,PRJNA388139,SAMN08135974,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354389,PRJNA388139,SAMN08135977,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354390,PRJNA388139,SAMN08135976,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354391,PRJNA388139,SAMN08135983,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354392,PRJNA388139,SAMN08135982,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354393,PRJNA388139,SAMN08135990,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354394,PRJNA388139,SAMN08135991,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354395,PRJNA388139,SAMN08135988,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354396,PRJNA388139,SAMN08135989,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354397,PRJNA388139,SAMN08135986,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354398,PRJNA388139,SAMN08135987,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354399,PRJNA388139,SAMN08135984,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354400,PRJNA388139,SAMN08135985,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354401,PRJNA388139,SAMN08135992,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354402,PRJNA388139,SAMN08135993,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354403,PRJNA388139,SAMN08135997,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354404,PRJNA388139,SAMN08135996,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354405,PRJNA388139,SAMN08135995,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354406,PRJNA388139,SAMN08135994,Estonia,Pada,Brown trout (Salmo trutta),Gut,Wild
+SRR6354407,PRJNA388139,SAMN08136001,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354408,PRJNA388139,SAMN08136000,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354409,PRJNA388139,SAMN08135999,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354410,PRJNA388139,SAMN08135998,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354411,PRJNA388139,SAMN08136003,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354412,PRJNA388139,SAMN08136002,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354413,PRJNA388139,SAMN08136023,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354414,PRJNA388139,SAMN08136022,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354415,PRJNA388139,SAMN08136012,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354416,PRJNA388139,SAMN08136013,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354417,PRJNA388139,SAMN08136008,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354418,PRJNA388139,SAMN08136009,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354419,PRJNA388139,SAMN08136010,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354420,PRJNA388139,SAMN08136011,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354421,PRJNA388139,SAMN08136004,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354422,PRJNA388139,SAMN08136005,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354423,PRJNA388139,SAMN08136006,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354424,PRJNA388139,SAMN08136007,Estonia,Preedi,Brown trout (Salmo trutta),Gut,Wild
+SRR6354425,PRJNA388139,SAMN08136072,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354426,PRJNA388139,SAMN08136073,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354427,PRJNA388139,SAMN08136064,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354428,PRJNA388139,SAMN08136065,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354429,PRJNA388139,SAMN08136066,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354430,PRJNA388139,SAMN08136067,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354431,PRJNA388139,SAMN08136068,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354432,PRJNA388139,SAMN08136069,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354433,PRJNA388139,SAMN08136070,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354434,PRJNA388139,SAMN08136071,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354435,PRJNA388139,SAMN08136015,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354436,PRJNA388139,SAMN08136014,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354437,PRJNA388139,SAMN08136017,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354438,PRJNA388139,SAMN08136016,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354439,PRJNA388139,SAMN08136019,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354440,PRJNA388139,SAMN08136018,Estonia,Pudisoo,Brown trout (Salmo trutta),Gut,Wild
+SRR6354441,PRJNA388139,SAMN08136021,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354442,PRJNA388139,SAMN08136020,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354443,PRJNA388139,SAMN08136063,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354444,PRJNA388139,SAMN08136062,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354445,PRJNA388139,SAMN08136061,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354446,PRJNA388139,SAMN08136060,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354447,PRJNA388139,SAMN08136059,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354448,PRJNA388139,SAMN08136058,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354449,PRJNA388139,SAMN08136057,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354450,PRJNA388139,SAMN08136056,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354451,PRJNA388139,SAMN08136055,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354452,PRJNA388139,SAMN08136054,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354453,PRJNA388139,SAMN08136032,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354454,PRJNA388139,SAMN08136033,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354455,PRJNA388139,SAMN08136026,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354456,PRJNA388139,SAMN08136027,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354457,PRJNA388139,SAMN08136024,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354458,PRJNA388139,SAMN08136025,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354459,PRJNA388139,SAMN08136030,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354460,PRJNA388139,SAMN08136031,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354461,PRJNA388139,SAMN08136028,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354462,PRJNA388139,SAMN08136029,Estonia,Selja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354463,PRJNA388139,SAMN08136041,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354464,PRJNA388139,SAMN08136040,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354465,PRJNA388139,SAMN08136039,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354466,PRJNA388139,SAMN08136038,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354467,PRJNA388139,SAMN08136037,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354468,PRJNA388139,SAMN08136036,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354469,PRJNA388139,SAMN08136035,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354470,PRJNA388139,SAMN08136034,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354471,PRJNA388139,SAMN08136043,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354472,PRJNA388139,SAMN08136042,Estonia,Toolse,Brown trout (Salmo trutta),Gut,Wild
+SRR6354473,PRJNA388139,SAMN08135962,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354474,PRJNA388139,SAMN08135963,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354475,PRJNA388139,SAMN08135958,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354476,PRJNA388139,SAMN08135959,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354477,PRJNA388139,SAMN08135960,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354478,PRJNA388139,SAMN08135961,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354479,PRJNA388139,SAMN08135954,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354480,PRJNA388139,SAMN08135955,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354481,PRJNA388139,SAMN08135956,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354482,PRJNA388139,SAMN08135957,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354483,PRJNA388139,SAMN08136075,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354484,PRJNA388139,SAMN08136074,Estonia,Vodja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354485,PRJNA388139,SAMN08136044,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354486,PRJNA388139,SAMN08136045,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354487,PRJNA388139,SAMN08136046,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354488,PRJNA388139,SAMN08136047,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354489,PRJNA388139,SAMN08136048,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354490,PRJNA388139,SAMN08136049,Estonia,Voesu,Brown trout (Salmo trutta),Gut,Wild
+SRR6354491,PRJNA388139,SAMN08136050,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354492,PRJNA388139,SAMN08136051,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354493,PRJNA388139,SAMN08136052,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354494,PRJNA388139,SAMN08136053,Estonia,Vainupea,Brown trout (Salmo trutta),Gut,Wild
+SRR6354495,PRJNA388139,SAMN08135972,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354496,PRJNA388139,SAMN08135973,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354497,PRJNA388139,SAMN08135964,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354498,PRJNA388139,SAMN08135965,Estonia,Altja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354499,PRJNA388139,SAMN08135966,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354500,PRJNA388139,SAMN08135967,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354501,PRJNA388139,SAMN08135968,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354502,PRJNA388139,SAMN08135969,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354503,PRJNA388139,SAMN08135970,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR6354504,PRJNA388139,SAMN08135971,Estonia,Mustoja,Brown trout (Salmo trutta),Gut,Wild
+SRR9039931,PRJNA542255,SAMN11618235,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039932,PRJNA542255,SAMN11618236,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039933,PRJNA542255,SAMN11618239,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039934,PRJNA542255,SAMN11618240,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039935,PRJNA542255,SAMN11618223,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039936,PRJNA542255,SAMN11618224,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039937,PRJNA542255,SAMN11618221,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039938,PRJNA542255,SAMN11618222,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039939,PRJNA542255,SAMN11618227,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039940,PRJNA542255,SAMN11618228,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039941,PRJNA542255,SAMN11618225,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039942,PRJNA542255,SAMN11618226,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039943,PRJNA542255,SAMN11618252,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039944,PRJNA542255,SAMN11618229,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039945,PRJNA542255,SAMN11618230,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039946,PRJNA542255,SAMN11618250,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039947,PRJNA542255,SAMN11618249,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039948,PRJNA542255,SAMN11618244,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039949,PRJNA542255,SAMN11618243,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039950,PRJNA542255,SAMN11618242,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039951,PRJNA542255,SAMN11618241,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039952,PRJNA542255,SAMN11618248,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039953,PRJNA542255,SAMN11618247,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039954,PRJNA542255,SAMN11618246,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039955,PRJNA542255,SAMN11618245,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039956,PRJNA542255,SAMN11618251,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039957,PRJNA542255,SAMN11618233,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039958,PRJNA542255,SAMN11618234,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039959,PRJNA542255,SAMN11618231,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039960,PRJNA542255,SAMN11618232,Poland,Olsztyn,Tench (Tinca tinca),Gut,Wild
+SRR9039961,PRJNA542255,SAMN11618237,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+SRR9039962,PRJNA542255,SAMN11618238,Poland,Lezyny,Tench (Tinca tinca),Gut,Wild
+WI_ATW_Back1_06_11_13,PRJNA272391,SAMN03282197,USA,Shorewood,Backshore,Sand,NA
+WI_ATW_Back1_07_30_13,PRJNA272391,SAMN03282241,USA,Shorewood,Backshore,Sand,NA
+WI_ATW_Back1_09_18_13,PRJNA272391,SAMN03282242,USA,Shorewood,Backshore,Sand,NA
+WI_ATW_Berm1_06_11_13,PRJNA272391,SAMN03282198,USA,Shorewood,Berm,Sand,NA
+WI_ATW_Berm1_07_30_13,PRJNA272391,SAMN03282243,USA,Shorewood,Berm,Sand,NA
+WI_ATW_Berm1_09_18_13,PRJNA272391,SAMN03282244,USA,Shorewood,Berm,Sand,NA
+WI_ATW_SUB1_07_30_13,PRJNA272391,SAMN03282245,USA,Shorewood,Submerged,Sand,NA
+WI_ATW_SUB1_09_18_13,PRJNA272391,SAMN03282246,USA,Shorewood,Submerged,Sand,NA
+WI_ATW1_06_11_13,PRJNA272391,SAMN03282196,USA,Shorewood,Lake water,Water,NA
+WI_ATW1_07_30_13,PRJNA272391,SAMN03282239,USA,Shorewood,Lake water,Water,NA
+WI_ATW1_09_18_13,PRJNA272391,SAMN03282240,USA,Shorewood,Lake water,Water,NA
+WI_BB_Back1_06_11_13,PRJNA272391,SAMN03282200,USA,Milwaukee,Backshore,Sand,NA
+WI_BB_Back1_08_13_13,PRJNA272391,SAMN03282249,USA,Milwaukee,Backshore,Sand,NA
+WI_BB_Back1_09_18_13,PRJNA272391,SAMN03282250,USA,Milwaukee,Backshore,Sand,NA
+WI_BB_Berm1_06_11_13,PRJNA272391,SAMN03282201,USA,Milwaukee,Berm,Sand,NA
+WI_BB_Berm1_08_13_13,PRJNA272391,SAMN03282251,USA,Milwaukee,Berm,Sand,NA
+WI_BB_Berm1_09_18_13,PRJNA272391,SAMN03282252,USA,Milwaukee,Berm,Sand,NA
+WI_BB_SUB1_08_13_13,PRJNA272391,SAMN03282253,USA,Milwaukee,Submerged,Sand,NA
+WI_BB_SUB1_09_18_13,PRJNA272391,SAMN03282254,USA,Milwaukee,Submerged,Sand,NA
+WI_BB1_06_11_13,PRJNA272391,SAMN03282199,USA,Milwaukee,Lake water,Water,NA
+WI_BB1_08_13_13,PRJNA272391,SAMN03282247,USA,Milwaukee,Lake water,Water,NA
+WI_BB1_09_18_13,PRJNA272391,SAMN03282248,USA,Milwaukee,Lake water,Water,NA
+WI_KASP_Back1_06_10_13,PRJNA272391,SAMN03282203,USA,Sheboygan,Backshore,Sand,NA
+WI_KASP_Back1_07_30_13,PRJNA272391,SAMN03282257,USA,Sheboygan,Backshore,Sand,NA
+WI_KASP_Back1_09_18_13,PRJNA272391,SAMN03282258,USA,Sheboygan,Backshore,Sand,NA
+WI_KASP_Berm1_06_10_13,PRJNA272391,SAMN03282204,USA,Sheboygan,Berm,Sand,NA
+WI_KASP_Berm1_07_30_13,PRJNA272391,SAMN03282259,USA,Sheboygan,Berm,Sand,NA
+WI_KASP_Berm1_09_18_13,PRJNA272391,SAMN03282260,USA,Sheboygan,Berm,Sand,NA
+WI_KASP_SUB1_07_30_13,PRJNA272391,SAMN03282261,USA,Sheboygan,Submerged,Sand,NA
+WI_KASP_SUB1_09_18_13,PRJNA272391,SAMN03282262,USA,Sheboygan,Submerged,Sand,NA
+WI_KASP1_06_10_13,PRJNA272391,SAMN03282202,USA,Sheboygan,Lake water,Water,NA
+WI_KASP1_07_30_13,PRJNA272391,SAMN03282255,USA,Sheboygan,Lake water,Water,NA
+WI_KASP1_09_18_13,PRJNA272391,SAMN03282256,USA,Sheboygan,Lake water,Water,NA
