@@ -12,6 +12,8 @@ setwd("~/Desktop/Aeromonas")
 ### load data ###
 #################
 
+# see ./DADA2_code/*_dada2.R
+
 # ASV counts
 counts_files.ls <- lapply(list.files("./RData/Counts/Total/",
                                      pattern = ".csv"), function(i) read.csv(i))
