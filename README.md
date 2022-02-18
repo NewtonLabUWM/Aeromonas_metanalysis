@@ -49,7 +49,7 @@ Cloutier, D. D., Alm, E. W., & McLellan, S. L. (2015). Influence of land use, nu
 
 
 ### 2.  Process raw 16S rRNA gene reads
-- <b>DADA2.  </b> Quality filter, merge paired-end reads, remove chimeric sequences, assign taxonomy with DADA2 (see ./DADA2_code).
+- <b>DADA2.  </b> Quality filter, merge paired-end reads, remove chimeric sequences, assign [taxonomy](https://www.arb-silva.de/documentation/release-138/) with [DADA2](https://www.bioconductor.org/packages/release/bioc/html/dada2.html) (see ./DADA2_code).
 
 
 ### 3.  Parse sequences classified as genus <i>Aeromonas</i>
