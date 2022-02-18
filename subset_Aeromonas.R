@@ -42,7 +42,6 @@ Datasets <- sapply(strsplit(names(counts_files.ls), "_"), '[', 1)
 names(counts_files.ls) <- Datasets
 names(relabun_files.ls) <- Datasets
 names(taxa_files.ls) <- Datasets
-names(info_files.ls) <- Datasets
 Datasets
 # [1] "Aquaculture" "Beach"       "Effluent"    "Nase"        "River"       "Salmon"      "Tench"       "Trout"     
 
