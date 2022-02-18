@@ -1,13 +1,10 @@
-./Data = Total community counts, Aeromonas only counts, sample metadata
+# Systematic Review and Meta-Analysis of Antimicrobial Susceptibility among  <i>Aeromonas spp.</i> from a One Health perspective
 
-./R = R code, R objects
-
-
-# Aquatic, antibiotic-resistant <i>Aeromonas spp.</i> meta-analysis
-Aeromonas 16S rRNA gene sequence dataset compilation
+Daniel Christopher Jones, Jenna Lewis,  Emily Lou LaMartina, Andrew James Dahl, Nischala Nagesh Holavanahalli, Ryan Newton, Troy A Skwor
 
 
-## Source datasets
+
+## Microbial community 16S rRNA gene sequence datasets
 
 ### Treated wastewater (effluent)
 
@@ -21,7 +18,7 @@ Bartelme, R. P., McLellan, S. L., & Newton, R. J. (2017). Freshwater recirculati
 
 ### Rivers
 
-McClary et al., 2021. In progress. [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/bioproject/665728).
+McClary-Gutierrez, J. S., Driscoll, Z., Nenn, C., & Newton, R. J. (2021). Human Fecal Contamination Corresponds to Changes in the Freshwater Bacterial Communities of a Large River Basin. [Microbiology spectrum](https://journals.asm.org/doi/full/10.1128/Spectrum.01200-21), 9(2), e01200-21.
 
 
 
@@ -41,3 +38,6 @@ McClary et al., 2021. In progress. [NCBI Sequence Read Archive](https://www.ncbi
 
 
 Cloutier, D. D., Alm, E. W., & McLellan, S. L. (2015). Influence of land use, nutrients, and geography on microbial communities and fecal indicator abundance at Lake Michigan beaches. [Applied and environmental microbiology](https://aem.asm.org/content/81/15/4904.short), 81(15), 4904-4913.
+
+
+![image](https://github.com/NewtonLabUWM/Aeromonas_metanalysis/blob/main/DADA2_code/Fig1.png)
