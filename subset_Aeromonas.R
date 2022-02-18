@@ -20,10 +20,6 @@ counts_files.ls <- lapply(list.files("./RData/Counts/Total",
 taxa_files.ls <- lapply(list.files("./RData/Taxonomy", 
                                      pattern = ".csv", full.names = T), function(i) read.csv(i))
 
-# ASV taxonomy
-info_files.ls <- lapply(list.files("./RData/Metadata", 
-                                   pattern = ".csv", full.names = T), function(i) read.csv(i))
-
 
 # counts -
 # change row names to sample names,
@@ -49,10 +45,6 @@ names(taxa_files.ls) <- Datasets
 names(info_files.ls) <- Datasets
 Datasets
 # [1] "Aquaculture" "Beach"       "Effluent"    "Nase"        "River"       "Salmon"      "Tench"       "Trout"     
-
-
-# load compiled sample info
-info_all <- read.csv("./RData/Aeromonas_16S_metadata.csv")
 
 
 
