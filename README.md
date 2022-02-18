@@ -18,7 +18,7 @@ Bartelme, R. P., McLellan, S. L., & Newton, R. J. (2017). Freshwater recirculati
 
 ### Rivers
 
-McClary et al., 2021. In progress. [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/bioproject/665728).
+McClary-Gutierrez, J. S., Driscoll, Z., Nenn, C., & Newton, R. J. (2021). Human Fecal Contamination Corresponds to Changes in the Freshwater Bacterial Communities of a Large River Basin. [Microbiology spectrum](https://journals.asm.org/doi/full/10.1128/Spectrum.01200-21), 9(2), e01200-21.
 
 
 
