@@ -152,6 +152,41 @@ dim(counts_filt) # [1] 227 152
 rownames(counts_filt) <- counts_filt$Sample_name
 
 
+                        
+
+######################################
+### convert to relative abundances ###
+######################################
+
+# sums of each sample
+sample_sums <- c()
+for (i in Datasets) {
+  sample_sums[[i]] <- rowSums(counts_files.ls[[i]])
+}
+
+sample_sums <- data.frame(Sample_name = names(unlist(sample_sums)), Sum = unlist(sample_sums))
+sample_sums$Sample_name <- sapply(strsplit(as.character(sample_sums$Sample_name), "\\."), '[', 2)
+
+
+# subset relevant samples
+sample_sums <- subset(sample_sums, Sample_name %in% counts_filt$Sample_name)
+sample_sums <- sample_sums[match(counts_filt$Sample_name, sample_sums$Sample_name),]
+
+
+# convert
+identical(as.character(counts_filt$Sample_name), sample_sums$Sample_name)
+
+relabun <- cbind(counts_filt, sample_sums[-1])
+relabun[3:ncol(relabun)] <- relabun[3:ncol(relabun)] / relabun$Sum
+relabun <- relabun[-ncol(relabun)]
+
+identical(counts_filt$Sample_name, relabun$Sample_name)
+identical(colnames(counts_filt), colnames(relabun))
+
+
+
 # save!
 write.csv(counts_filt, "./RData/Aeromonas_16S_ASVcounts.csv", row.names = FALSE, na = "")
+write.csv(relabun, "./RData/Aeromonas_16S_ASVrelativeAbundance.csv", row.names = FALSE, na = "")
+
 
