@@ -38,3 +38,6 @@ McClary-Gutierrez, J. S., Driscoll, Z., Nenn, C., & Newton, R. J. (2021). Human 
 
 
 Cloutier, D. D., Alm, E. W., & McLellan, S. L. (2015). Influence of land use, nutrients, and geography on microbial communities and fecal indicator abundance at Lake Michigan beaches. [Applied and environmental microbiology](https://aem.asm.org/content/81/15/4904.short), 81(15), 4904-4913.
+
+
+![image](https://github.com/NewtonLabUWM/Aeromonas_metanalysis/blob/main/DADA2_code/Fig1.png)
