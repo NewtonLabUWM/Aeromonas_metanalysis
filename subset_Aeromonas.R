@@ -12,16 +12,6 @@ setwd("~/Desktop/Aeromonas")
 ### load data ###
 #################
 
-# all_files.ls <- readRDS("./RData/All_files_list.RData")
-# 
-# # subset ASV counts, relative abundances, taxonomy, and metadata files
-# counts_files.ls <- all_files.ls[grep("counts", names(all_files.ls))]
-# taxa_files.ls <- all_files.ls[grep("taxa", names(all_files.ls))]
-# info_files.ls <- all_files.ls[grep("info", names(all_files.ls))]
-
-#################
-### dada2 results
-
 # ASV counts
 counts_files.ls <- lapply(list.files("./RData/Counts/Total", 
                                      pattern = ".csv", full.names = T), function(i) read.csv(i))
@@ -129,10 +119,6 @@ merged_counts <- data.frame(merged_counts.ls[[length(aero_counts.t.ls) - 1]])
 # change "NA" to zero
 merged_counts[is.na(merged_counts)] <- 0
 
-
-
-########################
-### add dataset variable
 
 # transpose -> samples as rows
 rownames(merged_counts) <- merged_counts$FASTA
