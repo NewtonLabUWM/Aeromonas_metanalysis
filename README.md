@@ -6,7 +6,7 @@ Daniel Christopher Jones, Jenna Lewis,  Emily Lou LaMartina, Andrew James Dahl, 
 
 ## Microbial community 16S rRNA gene sequence datasets
 
-![image](https://github.com/loulanomics/Aeromonas_metanalysis/blob/main/SRA_code/Aeromonas_dataset_overview.png)
+![image](https://github.com/loulanomics/Aeromonas_metanalysis/blob/main/SRA_code/dataset_overview.png)
 
 
 ## Estimate proportions of <i>Aeromonas</i> in each dataset
