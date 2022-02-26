@@ -25,7 +25,7 @@ Daniel Christopher Jones, Jenna Lewis,  Emily Lou LaMartina, Andrew James Dahl, 
 - see Aeromonas_metanalyis.R
 
 
-![image](https://github.com/NewtonLabUWM/Aeromonas_metanalysis/blob/main/DADA2_code/Fig1.png)
+![image](https://github.com/NewtonLabUWM/Aeromonas_metanalysis/blob/main/DADA2_code/Figure1.png)
 
 
 
